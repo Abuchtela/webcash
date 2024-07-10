@@ -1,3 +1,4 @@
 click==8.0.3
 requests==2.27.1
 filelock==3.4.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
